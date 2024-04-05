@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab2_IOT_20175557</string>
+    <string name="telemath">TeleMath</string>
+    <string name="indicaciones">INDICACIONES</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="logo_telemath">logo_telemath</string>
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="lab2_appsiot">Lab2- AppsIoT</string>
+    <string name="back_icon" />
+    <string name="settings" />
+    <string name="back_button" />
+</resources>
